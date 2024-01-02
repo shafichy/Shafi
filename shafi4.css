@@ -1,0 +1,18 @@
+.police{
+    height: 400px;
+    width: auto;
+}
+.ss{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+      display:hidden;
+}
+#span1{
+    border:2px solid green;
+  display: inline;
+  height: 60px;
+}
+button{
+    color:green;
+}
